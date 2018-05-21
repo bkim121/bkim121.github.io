@@ -17,6 +17,7 @@ html, body {
 #title {
   position: absolute;
   color: white;
+  top: 96%;
   left: 45%;
   letter-spacing: 7px;
   font-family: Arial, Helvetica, sans-serif;
